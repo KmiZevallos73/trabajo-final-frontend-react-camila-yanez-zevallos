@@ -1,0 +1,262 @@
+{
+  "productos": [
+    {
+      "nombre": "Nike Court Zoom Pro",
+      "precio": 390,
+      "imagen": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/9ca18110-79a6-47b8-b8f9-ecf6955ecf87/M+NIKE+ZOOM+COURT+PRO+HC.png",
+      "id": "1"
+    },
+    {
+      "nombre": "Adidas Barricade",
+      "precio": 579,
+      "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4128702eb1ea401b9ee2a0370ea5cf43_9366/Zapatillas_Barricade_13_para_Tenis_en_Arcilla_Blanco_IH2963_HM1.jpg",
+      "id": "2",
+      "genero": "Mujer",
+      "categoria": "Zapatillas"
+    },
+    {
+      "nombre": "Asics Gel Resolution",
+      "precio": 749.9,
+      "imagen": "https://asicsperu.vtexassets.com/arquivos/ids/731013-800-auto?v=638850859282370000&width=800&height=auto&aspect=true",
+      "id": "3",
+      "genero": "Hombre",
+      "categoria": "Zapatillas"
+    },
+    {
+      "id": "4",
+      "nombre": "Ace 3.0 Clay W",
+      "precio": 289,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WILSON_ANAR_N.jpg?v=1740434939&width=700",
+      "genero": "Hombre",
+      "categoria": "Zapatillas"
+    },
+    {
+      "id": "5",
+      "nombre": "Cuerdas Champions Choice Duo",
+      "precio": 429.9,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ997900E_0_Champions_Choice_Duo.png.cq5dam.web.1200.1200.jpg?v=1717013307&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "6",
+      "nombre": "Adrenaline 130 - Reel",
+      "precio": 709.9,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990090TP_0_Adrenaline_130_200m_Reel_Platinum.png?v=1706034307&width=400",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "8",
+      "nombre": "Alu Power Rough 125 100M Reel",
+      "precio": 709.9,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990120_0_ALU_Power_Rough_125_100m_Reel_Si.png.cq5dam.web.1200.1200.jpg?v=1725572999&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "9",
+      "nombre": "Original 130 - Reel",
+      "precio": 759.9,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990900_0_Original_130_200m_Reel_Amber.png.cq5dam.web.1200.1200.jpg?v=1718984982&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "10",
+      "nombre": "Savage 127 Reel",
+      "precio": 1229,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ902100_0_Savage_127_Reel_BK.png.cq5dam.web.1200.1200.jpg?v=1723568798&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "11",
+      "nombre": "Alu Power 130 Reel",
+      "precio": 1249,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WR8302301_0_ALU_Power_130_200m_Reel_Si.png.cq5dam.web.1200.1200.jpg?v=1725651984&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "12",
+      "nombre": "Alu Power 125 Reel",
+      "precio": 1249,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ9901SI_0_ALU_Power_125_200m_Reel_Si.png.cq5dam.web.1200.1200.jpg?v=1723486953&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "13",
+      "nombre": "Alu Power Rough 125 Reel",
+      "precio": 1249,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990200_0_ALU_Power_Rough_125_200m_Reel_Si.png.cq5dam.web.1200.1200.jpg?v=1716579933&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "14",
+      "nombre": "4G Luxilon 130 Reel",
+      "precio": 1299,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990142_0_4G_130_200m_Reel_Go.png.cq5dam.web.1200.1200.jpg?v=1723499673&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "15",
+      "nombre": "Alu Power Vibe Reel 125",
+      "precio": 1299,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WR8306701_0_AlU_Power_Vibe_125_200M_Reel_WH.png.cq5dam.web.1200.1200.jpg?v=1723561372&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "16",
+      "nombre": "Luxilon 4G 125 - Reel",
+      "precio": 1299,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990141_0_4G_125_200m_Reel_Go.png.cq5dam.web.1200.1200.jpg?v=1714666594&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "17",
+      "nombre": "Element Rough Reel",
+      "precio": 1299,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990730_0_Element_Rough_130_200m_Reel_Bronze.png.cq5dam.web.1200.1200.jpg?v=1723500142&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "18",
+      "nombre": "Element 125 Reel",
+      "precio": 1299,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990111_0_Element_130_200m_Reel_Bronze.png.cq5dam.web.1200.1200.jpg?v=1717015056&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": "19",
+      "nombre": "Alu Power Soft 125 Reel",
+      "precio": 1299,
+      "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990106_0_Element_125_200m_Reel_Bronze.png.cq5dam.web.1200.1200.jpg?v=1717015170&width=600",
+      "genero": "Unisex",
+      "categoria": "Accesorios"
+    }
+  ],
+  "ordenes": [
+    {
+      "id": "22a5ee5d-a7c0-4336-94ac-c61e5759932c",
+      "fecha": "2025-06-16T07:22:51.444Z",
+      "productos": [
+        {
+          "nombre": "Nike Court Zoom Pro",
+          "precio": 499.9,
+          "imagen": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/9ca18110-79a6-47b8-b8f9-ecf6955ecf87/M+NIKE+ZOOM+COURT+PRO+HC.png",
+          "id": "1",
+          "genero": "Hombre",
+          "categoria": "Zapatillas",
+          "cantidad": 2
+        },
+        {
+          "nombre": "Asics Gel Resolution",
+          "precio": 749.9,
+          "imagen": "https://asicsperu.vtexassets.com/arquivos/ids/731013-800-auto?v=638850859282370000&width=800&height=auto&aspect=true",
+          "id": "3",
+          "genero": "Hombre",
+          "categoria": "Zapatillas",
+          "cantidad": 2
+        }
+      ],
+      "envio": {
+        "pais": "Perú",
+        "provincia": "Lima",
+        "codigoPostal": ""
+      },
+      "nota": "",
+      "costoEnvio": 10,
+      "total": 2509.6
+    },
+    {
+      "id": "38a9fa37-cedf-4041-a71a-12cb60afe229",
+      "fecha": "2025-06-16T07:27:34.676Z",
+      "productos": [
+        {
+          "id": 6,
+          "nombre": "Adrenaline 130 - Reel",
+          "precio": 709.9,
+          "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990090TP_0_Adrenaline_130_200m_Reel_Platinum.png?v=1706034307&width=400",
+          "genero": "Unisex",
+          "categoria": "Accesorios",
+          "cantidad": 1
+        },
+        {
+          "id": 11,
+          "nombre": "Alu Power 130 Reel",
+          "precio": 1249,
+          "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WR8302301_0_ALU_Power_130_200m_Reel_Si.png.cq5dam.web.1200.1200.jpg?v=1725651984&width=600",
+          "genero": "Unisex",
+          "categoria": "Accesorios",
+          "cantidad": 1
+        },
+        {
+          "id": "4",
+          "nombre": "Ace 3.0 Clay W",
+          "precio": 289,
+          "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WILSON_ANAR_N.jpg?v=1740434939&width=700",
+          "genero": "Hombre",
+          "categoria": "Zapatillas",
+          "cantidad": 2
+        }
+      ],
+      "envio": {
+        "pais": "Perú",
+        "provincia": "La Libertad",
+        "codigoPostal": ""
+      },
+      "nota": "Conservar la etiqueta en las zapatillas",
+      "costoEnvio": 14,
+      "total": 2550.9
+    },
+    {
+      "id": "28622923-bd78-4723-b2ce-4208522742b7",
+      "fecha": "2025-06-17T01:48:46.834Z",
+      "productos": [
+        {
+          "nombre": "Nike Court Zoom Pro",
+          "precio": 499.9,
+          "imagen": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/9ca18110-79a6-47b8-b8f9-ecf6955ecf87/M+NIKE+ZOOM+COURT+PRO+HC.png",
+          "id": "1",
+          "genero": "Hombre",
+          "categoria": "Zapatillas",
+          "cantidad": 1
+        },
+        {
+          "id": "6",
+          "nombre": "Adrenaline 130 - Reel",
+          "precio": 709.9,
+          "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990090TP_0_Adrenaline_130_200m_Reel_Platinum.png?v=1706034307&width=400",
+          "genero": "Unisex",
+          "categoria": "Accesorios",
+          "cantidad": 2
+        },
+        {
+          "id": "8",
+          "nombre": "Alu Power Rough 125 100M Reel",
+          "precio": 709.9,
+          "imagen": "https://wilsonstore.com.pe/cdn/shop/files/WRZ990120_0_ALU_Power_Rough_125_100m_Reel_Si.png.cq5dam.web.1200.1200.jpg?v=1725572999&width=600",
+          "genero": "Unisex",
+          "categoria": "Accesorios",
+          "cantidad": 1
+        }
+      ],
+      "envio": {
+        "pais": "Perú",
+        "provincia": "Arequipa",
+        "codigoPostal": ""
+      },
+      "nota": "",
+      "costoEnvio": 15,
+      "total": 2644.6
+    }
+  ]
+}
